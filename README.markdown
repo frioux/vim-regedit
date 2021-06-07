@@ -3,7 +3,7 @@
 Regedit allows very simple modification of registers, for the purpose of
 updating or correcting macros.  Check out the demo below:
 
-![demo](https://github.com/frioux/vim-regedit/raw/master/demo.gif)
+![demo](https://github.com/frioux/vim-regedit/raw/main/demo.gif)
 
 ## Basic Usage
 
